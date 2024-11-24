@@ -1,6 +1,6 @@
 #TO DO
 -------------
-- Scrierea corectă cu â
+~~Scrierea corectă cu â~~
 
 - Corectări de ortografie, unde e cazul
 
